@@ -5,7 +5,7 @@
   <title>Welcome to Johnathan's 3D Printing WebPage</title>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <!-- CSS -->
-  <link rel="stylesheet" href="MyInterest.css" type="text/css" media="screen">
+  <link rel="stylesheet" href="PrintManager.css" type="text/css" media="screen">
   <link href='http://fonts.googleapis.com/css?family=Orienta' rel='stylesheet' type='text/css'>
 </head>
 <body>
@@ -27,7 +27,7 @@
     <div class="divide">
     <h1>Welcome to Johnathan's 3D Printing WebPage</h1>
     </div>
-    <div class="footer"><center>
+    <div class="footer">
     <p>Johnathan Uptegraph.<br>All Rights Reserved 2020.<br><p>
     <a href="https://www.linkedin.com/in/johnathan-uptegraph-270576191/">Connect With Me on LinkedIn</a>
     </div>
